@@ -2,7 +2,7 @@
 
 Este é um projeto de um **formulário de contato responsivo** desenvolvido com **HTML** e **CSS**, com foco em design moderno e usabilidade.
 
-![gif contact](https://imgur.com/skdNlcF.gif)
+[![gif contact](https://imgur.com/skdNlcF.gif)](https://gui-macedo-7.github.io/contact-us-form/)
 
 ## ✨ Funcionalidades
 
